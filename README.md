@@ -19,3 +19,6 @@ For more information about the dataset, you can visit the following resources:
 
 Website: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 Data Dictionary: https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
+
+## Data Model
+![alt text](https://github.com/nitinshivakumar/Taxi_Data-Engineering_Project/blob/main/Uber%20Data%20Model.png)
