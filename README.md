@@ -24,6 +24,6 @@ Data Dictionary: https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_tr
 ![alt text](https://github.com/nitinshivakumar/Taxi_Data-Engineering_Project/blob/main/Uber%20Data%20Model.png)
 
 ## Taxi Dashboard
-![alt text](https://github.com/nitinshivakumar/Taxi_Data-Engineering_Project/blob/main/Taxi_Trip_Dashboard.pdf)
+![alt text](https://github.com/nitinshivakumar/Taxi_Data-Engineering_Project/blob/main/Taxi%20Dashboard.png)
 
 Looker Taxi Dashboard Link : https://lookerstudio.google.com/s/r2UjvFf2EXI
